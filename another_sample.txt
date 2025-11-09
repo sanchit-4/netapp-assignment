@@ -1,0 +1,3 @@
+This is another sample text file.
+It's a new document that might become popular soon.
+Our system should detect this and move it proactively.

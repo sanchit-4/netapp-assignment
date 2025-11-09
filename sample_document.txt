@@ -1,0 +1,3 @@
+This is a sample text file for demonstrating object ingestion.
+It contains some arbitrary text that will be stored and managed by the intelligent cloud storage system.
+The system will analyze its access patterns and potentially migrate it to different storage tiers.

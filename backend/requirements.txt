@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+confluent-kafka
+boto3
+boto3-stubs[s3,minio]
+sqlalchemy
+python-dotenv
+alembic
+pydantic-settings
+scikit-learn
+pandas
+joblib
+jupyter
+matplotlib
+seaborn
+streamlit>=1.18.0
+plotly

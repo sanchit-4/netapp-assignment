@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+db/
+local_storage/
+.idea/
+.vscode/
+venv/
+*.db
+*.db-journal
